@@ -21,3 +21,4 @@ A macOS SwiftUI menu bar app that starts/stops a Python Telegram voice-control b
 ## Notes
 - Voice messages are currently acknowledged and routed as a placeholder hook in `telegram_bot.py`.
 - You can extend the Python script with speech-to-text + command execution logic.
+Test sync working
